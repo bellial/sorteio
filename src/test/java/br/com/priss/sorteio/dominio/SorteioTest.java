@@ -1,4 +1,4 @@
-package br.com.anaalice.sorteio.dominio;
+package br.com.priss.sorteio.dominio;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
